@@ -3,9 +3,8 @@
    
    by Matthias Dietrich @ Didis Maker Industries
 
-   This Sketch alows you to control any servo over the keyboard of your PC 
-   and monitor it´s actual position. This can be helpfull for calibrating
-   your servo for instance.
+   This sketch alows you to control any arduino-attached servo over the keyboard of your PC 
+   and monitor it´s actual position. This can be helpfull for calibrating your servo for instance.
 
    V1.00 - 14/07/2018  
 */
